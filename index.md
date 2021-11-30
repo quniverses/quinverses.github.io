@@ -1,4 +1,4 @@
-# qUinverses.github.io
+# qUniverses.github.io
 
 *Create the qUniverse that fits your task*
 
